@@ -1,4 +1,4 @@
-### <img src="BLack Minimalist Corporate Staff Identity LinkedIn Banner.png" alt="Bienvenida" width="100%"/>
+### <img src="banner.jpeg" alt="Bienvenida" width="100%"/>
 
 ### ¡Hola! mi nombre es Yeifer 
 
